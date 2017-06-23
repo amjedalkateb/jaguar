@@ -1,0 +1,6 @@
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\bin\Debug\myapp.exe.config
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\bin\Debug\myapp.exe
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\bin\Debug\myapp.pdb
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\obj\Debug\myapp.exe
+c:\users\amjed\documents\visual studio 2017\Projects\myapp\myapp\obj\Debug\myapp.pdb
